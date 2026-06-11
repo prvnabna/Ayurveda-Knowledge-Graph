@@ -1,0 +1,1241 @@
+Source,Relation,Target
+Ashwagandha,TREATS,cancer
+Ashwagandha,TREATS,obsessive-compulsive disorder
+Ashwagandha,TREATS,infertility
+Ashwagandha,TREATS,sleep disorders
+Ashwagandha,TREATS,anxiety
+Ashwagandha,TREATS,hypothyroidism
+Ashwagandha,TREATS,Alzheimer's disease
+Ashwagandha,TREATS,dementia
+Ashwagandha,TREATS,HIV infection
+Ashwagandha,TREATS,Parkinson's disease
+Ashwagandha,TREATS,cerebral oedema
+Ashwagandha,TREATS,Canine Cognitive Dysfunction
+Ashwagandha,TREATS,Huntington's disease
+Ashwagandha,TREATS,Alcohol Withdrawal Syndrome
+Ashwagandha,TREATS,autoimmune diseases
+Ashwagandha,TREATS,lupus
+Ashwagandha,TREATS,nephritis
+Ashwagandha,TREATS,rheumatoid diseases
+Ashwagandha,TREATS,skin inflammation
+Ashwagandha,TREATS,arthritis
+Ashwagandha,RELIEVES,sleep
+Ashwagandha,RELIEVES,adaptogenic effect
+Ashwagandha,RELIEVES,stress
+Ashwagandha,RELIEVES,cognitive function
+Ashwagandha,RELIEVES,physical performance
+Ashwagandha,RELIEVES,memory
+Ashwagandha,RELIEVES,thinking abilities
+Ashwagandha,RELIEVES,orientation
+Ashwagandha,RELIEVES,comprehension
+Ashwagandha,RELIEVES,learning abilities
+Ashwagandha,RELIEVES,emotional control
+Ashwagandha,RELIEVES,inflammatory response
+Ashwagandha,RELIEVES,apoptosis
+Ashwagandha,RELIEVES,necrosis
+Ashwagandha,RELIEVES,memory loss
+Ashwagandha,RELIEVES,neuronal apoptosis
+Ashwagandha,RELIEVES,inflammatory processes
+Ashwagandha,RELIEVES,intrusive thoughts
+Ashwagandha,RELIEVES,cognitive disturbance
+Ashwagandha,RELIEVES,chronic alcohol consumption
+Indian ginseng,TREATS,cancer
+Indian ginseng,TREATS,obsessive-compulsive disorder
+Indian ginseng,TREATS,infertility
+Indian ginseng,TREATS,sleep disorders
+Indian ginseng,TREATS,anxiety
+Indian ginseng,TREATS,hypothyroidism
+Indian ginseng,TREATS,Alzheimer's disease
+Indian ginseng,TREATS,dementia
+Indian ginseng,TREATS,HIV infection
+Indian ginseng,TREATS,Parkinson's disease
+Indian ginseng,TREATS,cerebral oedema
+Indian ginseng,TREATS,Canine Cognitive Dysfunction
+Indian ginseng,TREATS,Huntington's disease
+Indian ginseng,TREATS,Alcohol Withdrawal Syndrome
+Indian ginseng,TREATS,autoimmune diseases
+Indian ginseng,TREATS,lupus
+Indian ginseng,TREATS,nephritis
+Indian ginseng,TREATS,rheumatoid diseases
+Indian ginseng,TREATS,skin inflammation
+Indian ginseng,TREATS,arthritis
+Indian ginseng,RELIEVES,sleep
+Indian ginseng,RELIEVES,adaptogenic effect
+Indian ginseng,RELIEVES,stress
+Indian ginseng,RELIEVES,cognitive function
+Indian ginseng,RELIEVES,physical performance
+Indian ginseng,RELIEVES,memory
+Indian ginseng,RELIEVES,thinking abilities
+Indian ginseng,RELIEVES,orientation
+Indian ginseng,RELIEVES,comprehension
+Indian ginseng,RELIEVES,learning abilities
+Indian ginseng,RELIEVES,emotional control
+Indian ginseng,RELIEVES,inflammatory response
+Indian ginseng,RELIEVES,apoptosis
+Indian ginseng,RELIEVES,necrosis
+Indian ginseng,RELIEVES,memory loss
+Indian ginseng,RELIEVES,neuronal apoptosis
+Indian ginseng,RELIEVES,inflammatory processes
+Indian ginseng,RELIEVES,intrusive thoughts
+Indian ginseng,RELIEVES,cognitive disturbance
+Indian ginseng,RELIEVES,chronic alcohol consumption
+SENSORIL,TREATS,cancer
+SENSORIL,TREATS,obsessive-compulsive disorder
+SENSORIL,TREATS,infertility
+SENSORIL,TREATS,sleep disorders
+SENSORIL,TREATS,anxiety
+SENSORIL,TREATS,hypothyroidism
+SENSORIL,TREATS,Alzheimer's disease
+SENSORIL,TREATS,dementia
+SENSORIL,TREATS,HIV infection
+SENSORIL,TREATS,Parkinson's disease
+SENSORIL,TREATS,cerebral oedema
+SENSORIL,TREATS,Canine Cognitive Dysfunction
+SENSORIL,TREATS,Huntington's disease
+SENSORIL,TREATS,Alcohol Withdrawal Syndrome
+SENSORIL,TREATS,autoimmune diseases
+SENSORIL,TREATS,lupus
+SENSORIL,TREATS,nephritis
+SENSORIL,TREATS,rheumatoid diseases
+SENSORIL,TREATS,skin inflammation
+SENSORIL,TREATS,arthritis
+SENSORIL,RELIEVES,sleep
+SENSORIL,RELIEVES,adaptogenic effect
+SENSORIL,RELIEVES,stress
+SENSORIL,RELIEVES,cognitive function
+SENSORIL,RELIEVES,physical performance
+SENSORIL,RELIEVES,memory
+SENSORIL,RELIEVES,thinking abilities
+SENSORIL,RELIEVES,orientation
+SENSORIL,RELIEVES,comprehension
+SENSORIL,RELIEVES,learning abilities
+SENSORIL,RELIEVES,emotional control
+SENSORIL,RELIEVES,inflammatory response
+SENSORIL,RELIEVES,apoptosis
+SENSORIL,RELIEVES,necrosis
+SENSORIL,RELIEVES,memory loss
+SENSORIL,RELIEVES,neuronal apoptosis
+SENSORIL,RELIEVES,inflammatory processes
+SENSORIL,RELIEVES,intrusive thoughts
+SENSORIL,RELIEVES,cognitive disturbance
+SENSORIL,RELIEVES,chronic alcohol consumption
+Shoden,TREATS,cancer
+Shoden,TREATS,obsessive-compulsive disorder
+Shoden,TREATS,infertility
+Shoden,TREATS,sleep disorders
+Shoden,TREATS,anxiety
+Shoden,TREATS,hypothyroidism
+Shoden,TREATS,Alzheimer's disease
+Shoden,TREATS,dementia
+Shoden,TREATS,HIV infection
+Shoden,TREATS,Parkinson's disease
+Shoden,TREATS,cerebral oedema
+Shoden,TREATS,Canine Cognitive Dysfunction
+Shoden,TREATS,Huntington's disease
+Shoden,TREATS,Alcohol Withdrawal Syndrome
+Shoden,TREATS,autoimmune diseases
+Shoden,TREATS,lupus
+Shoden,TREATS,nephritis
+Shoden,TREATS,rheumatoid diseases
+Shoden,TREATS,skin inflammation
+Shoden,TREATS,arthritis
+Shoden,RELIEVES,sleep
+Shoden,RELIEVES,adaptogenic effect
+Shoden,RELIEVES,stress
+Shoden,RELIEVES,cognitive function
+Shoden,RELIEVES,physical performance
+Shoden,RELIEVES,memory
+Shoden,RELIEVES,thinking abilities
+Shoden,RELIEVES,orientation
+Shoden,RELIEVES,comprehension
+Shoden,RELIEVES,learning abilities
+Shoden,RELIEVES,emotional control
+Shoden,RELIEVES,inflammatory response
+Shoden,RELIEVES,apoptosis
+Shoden,RELIEVES,necrosis
+Shoden,RELIEVES,memory loss
+Shoden,RELIEVES,neuronal apoptosis
+Shoden,RELIEVES,inflammatory processes
+Shoden,RELIEVES,intrusive thoughts
+Shoden,RELIEVES,cognitive disturbance
+Shoden,RELIEVES,chronic alcohol consumption
+Prolanza,TREATS,cancer
+Prolanza,TREATS,obsessive-compulsive disorder
+Prolanza,TREATS,infertility
+Prolanza,TREATS,sleep disorders
+Prolanza,TREATS,anxiety
+Prolanza,TREATS,hypothyroidism
+Prolanza,TREATS,Alzheimer's disease
+Prolanza,TREATS,dementia
+Prolanza,TREATS,HIV infection
+Prolanza,TREATS,Parkinson's disease
+Prolanza,TREATS,cerebral oedema
+Prolanza,TREATS,Canine Cognitive Dysfunction
+Prolanza,TREATS,Huntington's disease
+Prolanza,TREATS,Alcohol Withdrawal Syndrome
+Prolanza,TREATS,autoimmune diseases
+Prolanza,TREATS,lupus
+Prolanza,TREATS,nephritis
+Prolanza,TREATS,rheumatoid diseases
+Prolanza,TREATS,skin inflammation
+Prolanza,TREATS,arthritis
+Prolanza,RELIEVES,sleep
+Prolanza,RELIEVES,adaptogenic effect
+Prolanza,RELIEVES,stress
+Prolanza,RELIEVES,cognitive function
+Prolanza,RELIEVES,physical performance
+Prolanza,RELIEVES,memory
+Prolanza,RELIEVES,thinking abilities
+Prolanza,RELIEVES,orientation
+Prolanza,RELIEVES,comprehension
+Prolanza,RELIEVES,learning abilities
+Prolanza,RELIEVES,emotional control
+Prolanza,RELIEVES,inflammatory response
+Prolanza,RELIEVES,apoptosis
+Prolanza,RELIEVES,necrosis
+Prolanza,RELIEVES,memory loss
+Prolanza,RELIEVES,neuronal apoptosis
+Prolanza,RELIEVES,inflammatory processes
+Prolanza,RELIEVES,intrusive thoughts
+Prolanza,RELIEVES,cognitive disturbance
+Prolanza,RELIEVES,chronic alcohol consumption
+Panax ginseng,TREATS,cancer
+Panax ginseng,TREATS,obsessive-compulsive disorder
+Panax ginseng,TREATS,infertility
+Panax ginseng,TREATS,sleep disorders
+Panax ginseng,TREATS,anxiety
+Panax ginseng,TREATS,hypothyroidism
+Panax ginseng,TREATS,Alzheimer's disease
+Panax ginseng,TREATS,dementia
+Panax ginseng,TREATS,HIV infection
+Panax ginseng,TREATS,Parkinson's disease
+Panax ginseng,TREATS,cerebral oedema
+Panax ginseng,TREATS,Canine Cognitive Dysfunction
+Panax ginseng,TREATS,Huntington's disease
+Panax ginseng,TREATS,Alcohol Withdrawal Syndrome
+Panax ginseng,TREATS,autoimmune diseases
+Panax ginseng,TREATS,lupus
+Panax ginseng,TREATS,nephritis
+Panax ginseng,TREATS,rheumatoid diseases
+Panax ginseng,TREATS,skin inflammation
+Panax ginseng,TREATS,arthritis
+Panax ginseng,RELIEVES,sleep
+Panax ginseng,RELIEVES,adaptogenic effect
+Panax ginseng,RELIEVES,stress
+Panax ginseng,RELIEVES,cognitive function
+Panax ginseng,RELIEVES,physical performance
+Panax ginseng,RELIEVES,memory
+Panax ginseng,RELIEVES,thinking abilities
+Panax ginseng,RELIEVES,orientation
+Panax ginseng,RELIEVES,comprehension
+Panax ginseng,RELIEVES,learning abilities
+Panax ginseng,RELIEVES,emotional control
+Panax ginseng,RELIEVES,inflammatory response
+Panax ginseng,RELIEVES,apoptosis
+Panax ginseng,RELIEVES,necrosis
+Panax ginseng,RELIEVES,memory loss
+Panax ginseng,RELIEVES,neuronal apoptosis
+Panax ginseng,RELIEVES,inflammatory processes
+Panax ginseng,RELIEVES,intrusive thoughts
+Panax ginseng,RELIEVES,cognitive disturbance
+Panax ginseng,RELIEVES,chronic alcohol consumption
+Solanaceae,TREATS,cancer
+Solanaceae,TREATS,obsessive-compulsive disorder
+Solanaceae,TREATS,infertility
+Solanaceae,TREATS,sleep disorders
+Solanaceae,TREATS,anxiety
+Solanaceae,TREATS,hypothyroidism
+Solanaceae,TREATS,Alzheimer's disease
+Solanaceae,TREATS,dementia
+Solanaceae,TREATS,HIV infection
+Solanaceae,TREATS,Parkinson's disease
+Solanaceae,TREATS,cerebral oedema
+Solanaceae,TREATS,Canine Cognitive Dysfunction
+Solanaceae,TREATS,Huntington's disease
+Solanaceae,TREATS,Alcohol Withdrawal Syndrome
+Solanaceae,TREATS,autoimmune diseases
+Solanaceae,TREATS,lupus
+Solanaceae,TREATS,nephritis
+Solanaceae,TREATS,rheumatoid diseases
+Solanaceae,TREATS,skin inflammation
+Solanaceae,TREATS,arthritis
+Solanaceae,RELIEVES,sleep
+Solanaceae,RELIEVES,adaptogenic effect
+Solanaceae,RELIEVES,stress
+Solanaceae,RELIEVES,cognitive function
+Solanaceae,RELIEVES,physical performance
+Solanaceae,RELIEVES,memory
+Solanaceae,RELIEVES,thinking abilities
+Solanaceae,RELIEVES,orientation
+Solanaceae,RELIEVES,comprehension
+Solanaceae,RELIEVES,learning abilities
+Solanaceae,RELIEVES,emotional control
+Solanaceae,RELIEVES,inflammatory response
+Solanaceae,RELIEVES,apoptosis
+Solanaceae,RELIEVES,necrosis
+Solanaceae,RELIEVES,memory loss
+Solanaceae,RELIEVES,neuronal apoptosis
+Solanaceae,RELIEVES,inflammatory processes
+Solanaceae,RELIEVES,intrusive thoughts
+Solanaceae,RELIEVES,cognitive disturbance
+Solanaceae,RELIEVES,chronic alcohol consumption
+Katakakhadiradi Kashayam,TREATS,cancer
+Katakakhadiradi Kashayam,TREATS,obsessive-compulsive disorder
+Katakakhadiradi Kashayam,TREATS,infertility
+Katakakhadiradi Kashayam,TREATS,sleep disorders
+Katakakhadiradi Kashayam,TREATS,anxiety
+Katakakhadiradi Kashayam,TREATS,hypothyroidism
+Katakakhadiradi Kashayam,TREATS,Alzheimer's disease
+Katakakhadiradi Kashayam,TREATS,dementia
+Katakakhadiradi Kashayam,TREATS,HIV infection
+Katakakhadiradi Kashayam,TREATS,Parkinson's disease
+Katakakhadiradi Kashayam,TREATS,cerebral oedema
+Katakakhadiradi Kashayam,TREATS,Canine Cognitive Dysfunction
+Katakakhadiradi Kashayam,TREATS,Huntington's disease
+Katakakhadiradi Kashayam,TREATS,Alcohol Withdrawal Syndrome
+Katakakhadiradi Kashayam,TREATS,autoimmune diseases
+Katakakhadiradi Kashayam,TREATS,lupus
+Katakakhadiradi Kashayam,TREATS,nephritis
+Katakakhadiradi Kashayam,TREATS,rheumatoid diseases
+Katakakhadiradi Kashayam,TREATS,skin inflammation
+Katakakhadiradi Kashayam,TREATS,arthritis
+Katakakhadiradi Kashayam,RELIEVES,sleep
+Katakakhadiradi Kashayam,RELIEVES,adaptogenic effect
+Katakakhadiradi Kashayam,RELIEVES,stress
+Katakakhadiradi Kashayam,RELIEVES,cognitive function
+Katakakhadiradi Kashayam,RELIEVES,physical performance
+Katakakhadiradi Kashayam,RELIEVES,memory
+Katakakhadiradi Kashayam,RELIEVES,thinking abilities
+Katakakhadiradi Kashayam,RELIEVES,orientation
+Katakakhadiradi Kashayam,RELIEVES,comprehension
+Katakakhadiradi Kashayam,RELIEVES,learning abilities
+Katakakhadiradi Kashayam,RELIEVES,emotional control
+Katakakhadiradi Kashayam,RELIEVES,inflammatory response
+Katakakhadiradi Kashayam,RELIEVES,apoptosis
+Katakakhadiradi Kashayam,RELIEVES,necrosis
+Katakakhadiradi Kashayam,RELIEVES,memory loss
+Katakakhadiradi Kashayam,RELIEVES,neuronal apoptosis
+Katakakhadiradi Kashayam,RELIEVES,inflammatory processes
+Katakakhadiradi Kashayam,RELIEVES,intrusive thoughts
+Katakakhadiradi Kashayam,RELIEVES,cognitive disturbance
+Katakakhadiradi Kashayam,RELIEVES,chronic alcohol consumption
+Chandraprabha Vati,TREATS,cancer
+Chandraprabha Vati,TREATS,obsessive-compulsive disorder
+Chandraprabha Vati,TREATS,infertility
+Chandraprabha Vati,TREATS,sleep disorders
+Chandraprabha Vati,TREATS,anxiety
+Chandraprabha Vati,TREATS,hypothyroidism
+Chandraprabha Vati,TREATS,Alzheimer's disease
+Chandraprabha Vati,TREATS,dementia
+Chandraprabha Vati,TREATS,HIV infection
+Chandraprabha Vati,TREATS,Parkinson's disease
+Chandraprabha Vati,TREATS,cerebral oedema
+Chandraprabha Vati,TREATS,Canine Cognitive Dysfunction
+Chandraprabha Vati,TREATS,Huntington's disease
+Chandraprabha Vati,TREATS,Alcohol Withdrawal Syndrome
+Chandraprabha Vati,TREATS,autoimmune diseases
+Chandraprabha Vati,TREATS,lupus
+Chandraprabha Vati,TREATS,nephritis
+Chandraprabha Vati,TREATS,rheumatoid diseases
+Chandraprabha Vati,TREATS,skin inflammation
+Chandraprabha Vati,TREATS,arthritis
+Chandraprabha Vati,RELIEVES,sleep
+Chandraprabha Vati,RELIEVES,adaptogenic effect
+Chandraprabha Vati,RELIEVES,stress
+Chandraprabha Vati,RELIEVES,cognitive function
+Chandraprabha Vati,RELIEVES,physical performance
+Chandraprabha Vati,RELIEVES,memory
+Chandraprabha Vati,RELIEVES,thinking abilities
+Chandraprabha Vati,RELIEVES,orientation
+Chandraprabha Vati,RELIEVES,comprehension
+Chandraprabha Vati,RELIEVES,learning abilities
+Chandraprabha Vati,RELIEVES,emotional control
+Chandraprabha Vati,RELIEVES,inflammatory response
+Chandraprabha Vati,RELIEVES,apoptosis
+Chandraprabha Vati,RELIEVES,necrosis
+Chandraprabha Vati,RELIEVES,memory loss
+Chandraprabha Vati,RELIEVES,neuronal apoptosis
+Chandraprabha Vati,RELIEVES,inflammatory processes
+Chandraprabha Vati,RELIEVES,intrusive thoughts
+Chandraprabha Vati,RELIEVES,cognitive disturbance
+Chandraprabha Vati,RELIEVES,chronic alcohol consumption
+Tinospora cordifolia,TREATS,cancer
+Tinospora cordifolia,TREATS,obsessive-compulsive disorder
+Tinospora cordifolia,TREATS,infertility
+Tinospora cordifolia,TREATS,sleep disorders
+Tinospora cordifolia,TREATS,anxiety
+Tinospora cordifolia,TREATS,hypothyroidism
+Tinospora cordifolia,TREATS,Alzheimer's disease
+Tinospora cordifolia,TREATS,dementia
+Tinospora cordifolia,TREATS,HIV infection
+Tinospora cordifolia,TREATS,Parkinson's disease
+Tinospora cordifolia,TREATS,cerebral oedema
+Tinospora cordifolia,TREATS,Canine Cognitive Dysfunction
+Tinospora cordifolia,TREATS,Huntington's disease
+Tinospora cordifolia,TREATS,Alcohol Withdrawal Syndrome
+Tinospora cordifolia,TREATS,autoimmune diseases
+Tinospora cordifolia,TREATS,lupus
+Tinospora cordifolia,TREATS,nephritis
+Tinospora cordifolia,TREATS,rheumatoid diseases
+Tinospora cordifolia,TREATS,skin inflammation
+Tinospora cordifolia,TREATS,arthritis
+Tinospora cordifolia,RELIEVES,sleep
+Tinospora cordifolia,RELIEVES,adaptogenic effect
+Tinospora cordifolia,RELIEVES,stress
+Tinospora cordifolia,RELIEVES,cognitive function
+Tinospora cordifolia,RELIEVES,physical performance
+Tinospora cordifolia,RELIEVES,memory
+Tinospora cordifolia,RELIEVES,thinking abilities
+Tinospora cordifolia,RELIEVES,orientation
+Tinospora cordifolia,RELIEVES,comprehension
+Tinospora cordifolia,RELIEVES,learning abilities
+Tinospora cordifolia,RELIEVES,emotional control
+Tinospora cordifolia,RELIEVES,inflammatory response
+Tinospora cordifolia,RELIEVES,apoptosis
+Tinospora cordifolia,RELIEVES,necrosis
+Tinospora cordifolia,RELIEVES,memory loss
+Tinospora cordifolia,RELIEVES,neuronal apoptosis
+Tinospora cordifolia,RELIEVES,inflammatory processes
+Tinospora cordifolia,RELIEVES,intrusive thoughts
+Tinospora cordifolia,RELIEVES,cognitive disturbance
+Tinospora cordifolia,RELIEVES,chronic alcohol consumption
+Pterocarpus marsupium,TREATS,cancer
+Pterocarpus marsupium,TREATS,obsessive-compulsive disorder
+Pterocarpus marsupium,TREATS,infertility
+Pterocarpus marsupium,TREATS,sleep disorders
+Pterocarpus marsupium,TREATS,anxiety
+Pterocarpus marsupium,TREATS,hypothyroidism
+Pterocarpus marsupium,TREATS,Alzheimer's disease
+Pterocarpus marsupium,TREATS,dementia
+Pterocarpus marsupium,TREATS,HIV infection
+Pterocarpus marsupium,TREATS,Parkinson's disease
+Pterocarpus marsupium,TREATS,cerebral oedema
+Pterocarpus marsupium,TREATS,Canine Cognitive Dysfunction
+Pterocarpus marsupium,TREATS,Huntington's disease
+Pterocarpus marsupium,TREATS,Alcohol Withdrawal Syndrome
+Pterocarpus marsupium,TREATS,autoimmune diseases
+Pterocarpus marsupium,TREATS,lupus
+Pterocarpus marsupium,TREATS,nephritis
+Pterocarpus marsupium,TREATS,rheumatoid diseases
+Pterocarpus marsupium,TREATS,skin inflammation
+Pterocarpus marsupium,TREATS,arthritis
+Pterocarpus marsupium,RELIEVES,sleep
+Pterocarpus marsupium,RELIEVES,adaptogenic effect
+Pterocarpus marsupium,RELIEVES,stress
+Pterocarpus marsupium,RELIEVES,cognitive function
+Pterocarpus marsupium,RELIEVES,physical performance
+Pterocarpus marsupium,RELIEVES,memory
+Pterocarpus marsupium,RELIEVES,thinking abilities
+Pterocarpus marsupium,RELIEVES,orientation
+Pterocarpus marsupium,RELIEVES,comprehension
+Pterocarpus marsupium,RELIEVES,learning abilities
+Pterocarpus marsupium,RELIEVES,emotional control
+Pterocarpus marsupium,RELIEVES,inflammatory response
+Pterocarpus marsupium,RELIEVES,apoptosis
+Pterocarpus marsupium,RELIEVES,necrosis
+Pterocarpus marsupium,RELIEVES,memory loss
+Pterocarpus marsupium,RELIEVES,neuronal apoptosis
+Pterocarpus marsupium,RELIEVES,inflammatory processes
+Pterocarpus marsupium,RELIEVES,intrusive thoughts
+Pterocarpus marsupium,RELIEVES,cognitive disturbance
+Pterocarpus marsupium,RELIEVES,chronic alcohol consumption
+Gymnema sylvestre,TREATS,cancer
+Gymnema sylvestre,TREATS,obsessive-compulsive disorder
+Gymnema sylvestre,TREATS,infertility
+Gymnema sylvestre,TREATS,sleep disorders
+Gymnema sylvestre,TREATS,anxiety
+Gymnema sylvestre,TREATS,hypothyroidism
+Gymnema sylvestre,TREATS,Alzheimer's disease
+Gymnema sylvestre,TREATS,dementia
+Gymnema sylvestre,TREATS,HIV infection
+Gymnema sylvestre,TREATS,Parkinson's disease
+Gymnema sylvestre,TREATS,cerebral oedema
+Gymnema sylvestre,TREATS,Canine Cognitive Dysfunction
+Gymnema sylvestre,TREATS,Huntington's disease
+Gymnema sylvestre,TREATS,Alcohol Withdrawal Syndrome
+Gymnema sylvestre,TREATS,autoimmune diseases
+Gymnema sylvestre,TREATS,lupus
+Gymnema sylvestre,TREATS,nephritis
+Gymnema sylvestre,TREATS,rheumatoid diseases
+Gymnema sylvestre,TREATS,skin inflammation
+Gymnema sylvestre,TREATS,arthritis
+Gymnema sylvestre,RELIEVES,sleep
+Gymnema sylvestre,RELIEVES,adaptogenic effect
+Gymnema sylvestre,RELIEVES,stress
+Gymnema sylvestre,RELIEVES,cognitive function
+Gymnema sylvestre,RELIEVES,physical performance
+Gymnema sylvestre,RELIEVES,memory
+Gymnema sylvestre,RELIEVES,thinking abilities
+Gymnema sylvestre,RELIEVES,orientation
+Gymnema sylvestre,RELIEVES,comprehension
+Gymnema sylvestre,RELIEVES,learning abilities
+Gymnema sylvestre,RELIEVES,emotional control
+Gymnema sylvestre,RELIEVES,inflammatory response
+Gymnema sylvestre,RELIEVES,apoptosis
+Gymnema sylvestre,RELIEVES,necrosis
+Gymnema sylvestre,RELIEVES,memory loss
+Gymnema sylvestre,RELIEVES,neuronal apoptosis
+Gymnema sylvestre,RELIEVES,inflammatory processes
+Gymnema sylvestre,RELIEVES,intrusive thoughts
+Gymnema sylvestre,RELIEVES,cognitive disturbance
+Gymnema sylvestre,RELIEVES,chronic alcohol consumption
+Zingiber officinale,TREATS,cancer
+Zingiber officinale,TREATS,obsessive-compulsive disorder
+Zingiber officinale,TREATS,infertility
+Zingiber officinale,TREATS,sleep disorders
+Zingiber officinale,TREATS,anxiety
+Zingiber officinale,TREATS,hypothyroidism
+Zingiber officinale,TREATS,Alzheimer's disease
+Zingiber officinale,TREATS,dementia
+Zingiber officinale,TREATS,HIV infection
+Zingiber officinale,TREATS,Parkinson's disease
+Zingiber officinale,TREATS,cerebral oedema
+Zingiber officinale,TREATS,Canine Cognitive Dysfunction
+Zingiber officinale,TREATS,Huntington's disease
+Zingiber officinale,TREATS,Alcohol Withdrawal Syndrome
+Zingiber officinale,TREATS,autoimmune diseases
+Zingiber officinale,TREATS,lupus
+Zingiber officinale,TREATS,nephritis
+Zingiber officinale,TREATS,rheumatoid diseases
+Zingiber officinale,TREATS,skin inflammation
+Zingiber officinale,TREATS,arthritis
+Zingiber officinale,RELIEVES,sleep
+Zingiber officinale,RELIEVES,adaptogenic effect
+Zingiber officinale,RELIEVES,stress
+Zingiber officinale,RELIEVES,cognitive function
+Zingiber officinale,RELIEVES,physical performance
+Zingiber officinale,RELIEVES,memory
+Zingiber officinale,RELIEVES,thinking abilities
+Zingiber officinale,RELIEVES,orientation
+Zingiber officinale,RELIEVES,comprehension
+Zingiber officinale,RELIEVES,learning abilities
+Zingiber officinale,RELIEVES,emotional control
+Zingiber officinale,RELIEVES,inflammatory response
+Zingiber officinale,RELIEVES,apoptosis
+Zingiber officinale,RELIEVES,necrosis
+Zingiber officinale,RELIEVES,memory loss
+Zingiber officinale,RELIEVES,neuronal apoptosis
+Zingiber officinale,RELIEVES,inflammatory processes
+Zingiber officinale,RELIEVES,intrusive thoughts
+Zingiber officinale,RELIEVES,cognitive disturbance
+Zingiber officinale,RELIEVES,chronic alcohol consumption
+Momordica charantia,TREATS,cancer
+Momordica charantia,TREATS,obsessive-compulsive disorder
+Momordica charantia,TREATS,infertility
+Momordica charantia,TREATS,sleep disorders
+Momordica charantia,TREATS,anxiety
+Momordica charantia,TREATS,hypothyroidism
+Momordica charantia,TREATS,Alzheimer's disease
+Momordica charantia,TREATS,dementia
+Momordica charantia,TREATS,HIV infection
+Momordica charantia,TREATS,Parkinson's disease
+Momordica charantia,TREATS,cerebral oedema
+Momordica charantia,TREATS,Canine Cognitive Dysfunction
+Momordica charantia,TREATS,Huntington's disease
+Momordica charantia,TREATS,Alcohol Withdrawal Syndrome
+Momordica charantia,TREATS,autoimmune diseases
+Momordica charantia,TREATS,lupus
+Momordica charantia,TREATS,nephritis
+Momordica charantia,TREATS,rheumatoid diseases
+Momordica charantia,TREATS,skin inflammation
+Momordica charantia,TREATS,arthritis
+Momordica charantia,RELIEVES,sleep
+Momordica charantia,RELIEVES,adaptogenic effect
+Momordica charantia,RELIEVES,stress
+Momordica charantia,RELIEVES,cognitive function
+Momordica charantia,RELIEVES,physical performance
+Momordica charantia,RELIEVES,memory
+Momordica charantia,RELIEVES,thinking abilities
+Momordica charantia,RELIEVES,orientation
+Momordica charantia,RELIEVES,comprehension
+Momordica charantia,RELIEVES,learning abilities
+Momordica charantia,RELIEVES,emotional control
+Momordica charantia,RELIEVES,inflammatory response
+Momordica charantia,RELIEVES,apoptosis
+Momordica charantia,RELIEVES,necrosis
+Momordica charantia,RELIEVES,memory loss
+Momordica charantia,RELIEVES,neuronal apoptosis
+Momordica charantia,RELIEVES,inflammatory processes
+Momordica charantia,RELIEVES,intrusive thoughts
+Momordica charantia,RELIEVES,cognitive disturbance
+Momordica charantia,RELIEVES,chronic alcohol consumption
+Mamajjaka,TREATS,cancer
+Mamajjaka,TREATS,obsessive-compulsive disorder
+Mamajjaka,TREATS,infertility
+Mamajjaka,TREATS,sleep disorders
+Mamajjaka,TREATS,anxiety
+Mamajjaka,TREATS,hypothyroidism
+Mamajjaka,TREATS,Alzheimer's disease
+Mamajjaka,TREATS,dementia
+Mamajjaka,TREATS,HIV infection
+Mamajjaka,TREATS,Parkinson's disease
+Mamajjaka,TREATS,cerebral oedema
+Mamajjaka,TREATS,Canine Cognitive Dysfunction
+Mamajjaka,TREATS,Huntington's disease
+Mamajjaka,TREATS,Alcohol Withdrawal Syndrome
+Mamajjaka,TREATS,autoimmune diseases
+Mamajjaka,TREATS,lupus
+Mamajjaka,TREATS,nephritis
+Mamajjaka,TREATS,rheumatoid diseases
+Mamajjaka,TREATS,skin inflammation
+Mamajjaka,TREATS,arthritis
+Mamajjaka,RELIEVES,sleep
+Mamajjaka,RELIEVES,adaptogenic effect
+Mamajjaka,RELIEVES,stress
+Mamajjaka,RELIEVES,cognitive function
+Mamajjaka,RELIEVES,physical performance
+Mamajjaka,RELIEVES,memory
+Mamajjaka,RELIEVES,thinking abilities
+Mamajjaka,RELIEVES,orientation
+Mamajjaka,RELIEVES,comprehension
+Mamajjaka,RELIEVES,learning abilities
+Mamajjaka,RELIEVES,emotional control
+Mamajjaka,RELIEVES,inflammatory response
+Mamajjaka,RELIEVES,apoptosis
+Mamajjaka,RELIEVES,necrosis
+Mamajjaka,RELIEVES,memory loss
+Mamajjaka,RELIEVES,neuronal apoptosis
+Mamajjaka,RELIEVES,inflammatory processes
+Mamajjaka,RELIEVES,intrusive thoughts
+Mamajjaka,RELIEVES,cognitive disturbance
+Mamajjaka,RELIEVES,chronic alcohol consumption
+Shilajatu,TREATS,cancer
+Shilajatu,TREATS,obsessive-compulsive disorder
+Shilajatu,TREATS,infertility
+Shilajatu,TREATS,sleep disorders
+Shilajatu,TREATS,anxiety
+Shilajatu,TREATS,hypothyroidism
+Shilajatu,TREATS,Alzheimer's disease
+Shilajatu,TREATS,dementia
+Shilajatu,TREATS,HIV infection
+Shilajatu,TREATS,Parkinson's disease
+Shilajatu,TREATS,cerebral oedema
+Shilajatu,TREATS,Canine Cognitive Dysfunction
+Shilajatu,TREATS,Huntington's disease
+Shilajatu,TREATS,Alcohol Withdrawal Syndrome
+Shilajatu,TREATS,autoimmune diseases
+Shilajatu,TREATS,lupus
+Shilajatu,TREATS,nephritis
+Shilajatu,TREATS,rheumatoid diseases
+Shilajatu,TREATS,skin inflammation
+Shilajatu,TREATS,arthritis
+Shilajatu,RELIEVES,sleep
+Shilajatu,RELIEVES,adaptogenic effect
+Shilajatu,RELIEVES,stress
+Shilajatu,RELIEVES,cognitive function
+Shilajatu,RELIEVES,physical performance
+Shilajatu,RELIEVES,memory
+Shilajatu,RELIEVES,thinking abilities
+Shilajatu,RELIEVES,orientation
+Shilajatu,RELIEVES,comprehension
+Shilajatu,RELIEVES,learning abilities
+Shilajatu,RELIEVES,emotional control
+Shilajatu,RELIEVES,inflammatory response
+Shilajatu,RELIEVES,apoptosis
+Shilajatu,RELIEVES,necrosis
+Shilajatu,RELIEVES,memory loss
+Shilajatu,RELIEVES,neuronal apoptosis
+Shilajatu,RELIEVES,inflammatory processes
+Shilajatu,RELIEVES,intrusive thoughts
+Shilajatu,RELIEVES,cognitive disturbance
+Shilajatu,RELIEVES,chronic alcohol consumption
+Vidangadi Lauha,TREATS,cancer
+Vidangadi Lauha,TREATS,obsessive-compulsive disorder
+Vidangadi Lauha,TREATS,infertility
+Vidangadi Lauha,TREATS,sleep disorders
+Vidangadi Lauha,TREATS,anxiety
+Vidangadi Lauha,TREATS,hypothyroidism
+Vidangadi Lauha,TREATS,Alzheimer's disease
+Vidangadi Lauha,TREATS,dementia
+Vidangadi Lauha,TREATS,HIV infection
+Vidangadi Lauha,TREATS,Parkinson's disease
+Vidangadi Lauha,TREATS,cerebral oedema
+Vidangadi Lauha,TREATS,Canine Cognitive Dysfunction
+Vidangadi Lauha,TREATS,Huntington's disease
+Vidangadi Lauha,TREATS,Alcohol Withdrawal Syndrome
+Vidangadi Lauha,TREATS,autoimmune diseases
+Vidangadi Lauha,TREATS,lupus
+Vidangadi Lauha,TREATS,nephritis
+Vidangadi Lauha,TREATS,rheumatoid diseases
+Vidangadi Lauha,TREATS,skin inflammation
+Vidangadi Lauha,TREATS,arthritis
+Vidangadi Lauha,RELIEVES,sleep
+Vidangadi Lauha,RELIEVES,adaptogenic effect
+Vidangadi Lauha,RELIEVES,stress
+Vidangadi Lauha,RELIEVES,cognitive function
+Vidangadi Lauha,RELIEVES,physical performance
+Vidangadi Lauha,RELIEVES,memory
+Vidangadi Lauha,RELIEVES,thinking abilities
+Vidangadi Lauha,RELIEVES,orientation
+Vidangadi Lauha,RELIEVES,comprehension
+Vidangadi Lauha,RELIEVES,learning abilities
+Vidangadi Lauha,RELIEVES,emotional control
+Vidangadi Lauha,RELIEVES,inflammatory response
+Vidangadi Lauha,RELIEVES,apoptosis
+Vidangadi Lauha,RELIEVES,necrosis
+Vidangadi Lauha,RELIEVES,memory loss
+Vidangadi Lauha,RELIEVES,neuronal apoptosis
+Vidangadi Lauha,RELIEVES,inflammatory processes
+Vidangadi Lauha,RELIEVES,intrusive thoughts
+Vidangadi Lauha,RELIEVES,cognitive disturbance
+Vidangadi Lauha,RELIEVES,chronic alcohol consumption
+Triphala ghrita,TREATS,cancer
+Triphala ghrita,TREATS,obsessive-compulsive disorder
+Triphala ghrita,TREATS,infertility
+Triphala ghrita,TREATS,sleep disorders
+Triphala ghrita,TREATS,anxiety
+Triphala ghrita,TREATS,hypothyroidism
+Triphala ghrita,TREATS,Alzheimer's disease
+Triphala ghrita,TREATS,dementia
+Triphala ghrita,TREATS,HIV infection
+Triphala ghrita,TREATS,Parkinson's disease
+Triphala ghrita,TREATS,cerebral oedema
+Triphala ghrita,TREATS,Canine Cognitive Dysfunction
+Triphala ghrita,TREATS,Huntington's disease
+Triphala ghrita,TREATS,Alcohol Withdrawal Syndrome
+Triphala ghrita,TREATS,autoimmune diseases
+Triphala ghrita,TREATS,lupus
+Triphala ghrita,TREATS,nephritis
+Triphala ghrita,TREATS,rheumatoid diseases
+Triphala ghrita,TREATS,skin inflammation
+Triphala ghrita,TREATS,arthritis
+Triphala ghrita,RELIEVES,sleep
+Triphala ghrita,RELIEVES,adaptogenic effect
+Triphala ghrita,RELIEVES,stress
+Triphala ghrita,RELIEVES,cognitive function
+Triphala ghrita,RELIEVES,physical performance
+Triphala ghrita,RELIEVES,memory
+Triphala ghrita,RELIEVES,thinking abilities
+Triphala ghrita,RELIEVES,orientation
+Triphala ghrita,RELIEVES,comprehension
+Triphala ghrita,RELIEVES,learning abilities
+Triphala ghrita,RELIEVES,emotional control
+Triphala ghrita,RELIEVES,inflammatory response
+Triphala ghrita,RELIEVES,apoptosis
+Triphala ghrita,RELIEVES,necrosis
+Triphala ghrita,RELIEVES,memory loss
+Triphala ghrita,RELIEVES,neuronal apoptosis
+Triphala ghrita,RELIEVES,inflammatory processes
+Triphala ghrita,RELIEVES,intrusive thoughts
+Triphala ghrita,RELIEVES,cognitive disturbance
+Triphala ghrita,RELIEVES,chronic alcohol consumption
+Mahavishagarbha taila,TREATS,cancer
+Mahavishagarbha taila,TREATS,obsessive-compulsive disorder
+Mahavishagarbha taila,TREATS,infertility
+Mahavishagarbha taila,TREATS,sleep disorders
+Mahavishagarbha taila,TREATS,anxiety
+Mahavishagarbha taila,TREATS,hypothyroidism
+Mahavishagarbha taila,TREATS,Alzheimer's disease
+Mahavishagarbha taila,TREATS,dementia
+Mahavishagarbha taila,TREATS,HIV infection
+Mahavishagarbha taila,TREATS,Parkinson's disease
+Mahavishagarbha taila,TREATS,cerebral oedema
+Mahavishagarbha taila,TREATS,Canine Cognitive Dysfunction
+Mahavishagarbha taila,TREATS,Huntington's disease
+Mahavishagarbha taila,TREATS,Alcohol Withdrawal Syndrome
+Mahavishagarbha taila,TREATS,autoimmune diseases
+Mahavishagarbha taila,TREATS,lupus
+Mahavishagarbha taila,TREATS,nephritis
+Mahavishagarbha taila,TREATS,rheumatoid diseases
+Mahavishagarbha taila,TREATS,skin inflammation
+Mahavishagarbha taila,TREATS,arthritis
+Mahavishagarbha taila,RELIEVES,sleep
+Mahavishagarbha taila,RELIEVES,adaptogenic effect
+Mahavishagarbha taila,RELIEVES,stress
+Mahavishagarbha taila,RELIEVES,cognitive function
+Mahavishagarbha taila,RELIEVES,physical performance
+Mahavishagarbha taila,RELIEVES,memory
+Mahavishagarbha taila,RELIEVES,thinking abilities
+Mahavishagarbha taila,RELIEVES,orientation
+Mahavishagarbha taila,RELIEVES,comprehension
+Mahavishagarbha taila,RELIEVES,learning abilities
+Mahavishagarbha taila,RELIEVES,emotional control
+Mahavishagarbha taila,RELIEVES,inflammatory response
+Mahavishagarbha taila,RELIEVES,apoptosis
+Mahavishagarbha taila,RELIEVES,necrosis
+Mahavishagarbha taila,RELIEVES,memory loss
+Mahavishagarbha taila,RELIEVES,neuronal apoptosis
+Mahavishagarbha taila,RELIEVES,inflammatory processes
+Mahavishagarbha taila,RELIEVES,intrusive thoughts
+Mahavishagarbha taila,RELIEVES,cognitive disturbance
+Mahavishagarbha taila,RELIEVES,chronic alcohol consumption
+Balaguduchyadi taila,TREATS,cancer
+Balaguduchyadi taila,TREATS,obsessive-compulsive disorder
+Balaguduchyadi taila,TREATS,infertility
+Balaguduchyadi taila,TREATS,sleep disorders
+Balaguduchyadi taila,TREATS,anxiety
+Balaguduchyadi taila,TREATS,hypothyroidism
+Balaguduchyadi taila,TREATS,Alzheimer's disease
+Balaguduchyadi taila,TREATS,dementia
+Balaguduchyadi taila,TREATS,HIV infection
+Balaguduchyadi taila,TREATS,Parkinson's disease
+Balaguduchyadi taila,TREATS,cerebral oedema
+Balaguduchyadi taila,TREATS,Canine Cognitive Dysfunction
+Balaguduchyadi taila,TREATS,Huntington's disease
+Balaguduchyadi taila,TREATS,Alcohol Withdrawal Syndrome
+Balaguduchyadi taila,TREATS,autoimmune diseases
+Balaguduchyadi taila,TREATS,lupus
+Balaguduchyadi taila,TREATS,nephritis
+Balaguduchyadi taila,TREATS,rheumatoid diseases
+Balaguduchyadi taila,TREATS,skin inflammation
+Balaguduchyadi taila,TREATS,arthritis
+Balaguduchyadi taila,RELIEVES,sleep
+Balaguduchyadi taila,RELIEVES,adaptogenic effect
+Balaguduchyadi taila,RELIEVES,stress
+Balaguduchyadi taila,RELIEVES,cognitive function
+Balaguduchyadi taila,RELIEVES,physical performance
+Balaguduchyadi taila,RELIEVES,memory
+Balaguduchyadi taila,RELIEVES,thinking abilities
+Balaguduchyadi taila,RELIEVES,orientation
+Balaguduchyadi taila,RELIEVES,comprehension
+Balaguduchyadi taila,RELIEVES,learning abilities
+Balaguduchyadi taila,RELIEVES,emotional control
+Balaguduchyadi taila,RELIEVES,inflammatory response
+Balaguduchyadi taila,RELIEVES,apoptosis
+Balaguduchyadi taila,RELIEVES,necrosis
+Balaguduchyadi taila,RELIEVES,memory loss
+Balaguduchyadi taila,RELIEVES,neuronal apoptosis
+Balaguduchyadi taila,RELIEVES,inflammatory processes
+Balaguduchyadi taila,RELIEVES,intrusive thoughts
+Balaguduchyadi taila,RELIEVES,cognitive disturbance
+Balaguduchyadi taila,RELIEVES,chronic alcohol consumption
+Yastimadhu Phanta,TREATS,cancer
+Yastimadhu Phanta,TREATS,obsessive-compulsive disorder
+Yastimadhu Phanta,TREATS,infertility
+Yastimadhu Phanta,TREATS,sleep disorders
+Yastimadhu Phanta,TREATS,anxiety
+Yastimadhu Phanta,TREATS,hypothyroidism
+Yastimadhu Phanta,TREATS,Alzheimer's disease
+Yastimadhu Phanta,TREATS,dementia
+Yastimadhu Phanta,TREATS,HIV infection
+Yastimadhu Phanta,TREATS,Parkinson's disease
+Yastimadhu Phanta,TREATS,cerebral oedema
+Yastimadhu Phanta,TREATS,Canine Cognitive Dysfunction
+Yastimadhu Phanta,TREATS,Huntington's disease
+Yastimadhu Phanta,TREATS,Alcohol Withdrawal Syndrome
+Yastimadhu Phanta,TREATS,autoimmune diseases
+Yastimadhu Phanta,TREATS,lupus
+Yastimadhu Phanta,TREATS,nephritis
+Yastimadhu Phanta,TREATS,rheumatoid diseases
+Yastimadhu Phanta,TREATS,skin inflammation
+Yastimadhu Phanta,TREATS,arthritis
+Yastimadhu Phanta,RELIEVES,sleep
+Yastimadhu Phanta,RELIEVES,adaptogenic effect
+Yastimadhu Phanta,RELIEVES,stress
+Yastimadhu Phanta,RELIEVES,cognitive function
+Yastimadhu Phanta,RELIEVES,physical performance
+Yastimadhu Phanta,RELIEVES,memory
+Yastimadhu Phanta,RELIEVES,thinking abilities
+Yastimadhu Phanta,RELIEVES,orientation
+Yastimadhu Phanta,RELIEVES,comprehension
+Yastimadhu Phanta,RELIEVES,learning abilities
+Yastimadhu Phanta,RELIEVES,emotional control
+Yastimadhu Phanta,RELIEVES,inflammatory response
+Yastimadhu Phanta,RELIEVES,apoptosis
+Yastimadhu Phanta,RELIEVES,necrosis
+Yastimadhu Phanta,RELIEVES,memory loss
+Yastimadhu Phanta,RELIEVES,neuronal apoptosis
+Yastimadhu Phanta,RELIEVES,inflammatory processes
+Yastimadhu Phanta,RELIEVES,intrusive thoughts
+Yastimadhu Phanta,RELIEVES,cognitive disturbance
+Yastimadhu Phanta,RELIEVES,chronic alcohol consumption
+Madanaphala yoga,TREATS,cancer
+Madanaphala yoga,TREATS,obsessive-compulsive disorder
+Madanaphala yoga,TREATS,infertility
+Madanaphala yoga,TREATS,sleep disorders
+Madanaphala yoga,TREATS,anxiety
+Madanaphala yoga,TREATS,hypothyroidism
+Madanaphala yoga,TREATS,Alzheimer's disease
+Madanaphala yoga,TREATS,dementia
+Madanaphala yoga,TREATS,HIV infection
+Madanaphala yoga,TREATS,Parkinson's disease
+Madanaphala yoga,TREATS,cerebral oedema
+Madanaphala yoga,TREATS,Canine Cognitive Dysfunction
+Madanaphala yoga,TREATS,Huntington's disease
+Madanaphala yoga,TREATS,Alcohol Withdrawal Syndrome
+Madanaphala yoga,TREATS,autoimmune diseases
+Madanaphala yoga,TREATS,lupus
+Madanaphala yoga,TREATS,nephritis
+Madanaphala yoga,TREATS,rheumatoid diseases
+Madanaphala yoga,TREATS,skin inflammation
+Madanaphala yoga,TREATS,arthritis
+Madanaphala yoga,RELIEVES,sleep
+Madanaphala yoga,RELIEVES,adaptogenic effect
+Madanaphala yoga,RELIEVES,stress
+Madanaphala yoga,RELIEVES,cognitive function
+Madanaphala yoga,RELIEVES,physical performance
+Madanaphala yoga,RELIEVES,memory
+Madanaphala yoga,RELIEVES,thinking abilities
+Madanaphala yoga,RELIEVES,orientation
+Madanaphala yoga,RELIEVES,comprehension
+Madanaphala yoga,RELIEVES,learning abilities
+Madanaphala yoga,RELIEVES,emotional control
+Madanaphala yoga,RELIEVES,inflammatory response
+Madanaphala yoga,RELIEVES,apoptosis
+Madanaphala yoga,RELIEVES,necrosis
+Madanaphala yoga,RELIEVES,memory loss
+Madanaphala yoga,RELIEVES,neuronal apoptosis
+Madanaphala yoga,RELIEVES,inflammatory processes
+Madanaphala yoga,RELIEVES,intrusive thoughts
+Madanaphala yoga,RELIEVES,cognitive disturbance
+Madanaphala yoga,RELIEVES,chronic alcohol consumption
+Avipatti choorna,TREATS,cancer
+Avipatti choorna,TREATS,obsessive-compulsive disorder
+Avipatti choorna,TREATS,infertility
+Avipatti choorna,TREATS,sleep disorders
+Avipatti choorna,TREATS,anxiety
+Avipatti choorna,TREATS,hypothyroidism
+Avipatti choorna,TREATS,Alzheimer's disease
+Avipatti choorna,TREATS,dementia
+Avipatti choorna,TREATS,HIV infection
+Avipatti choorna,TREATS,Parkinson's disease
+Avipatti choorna,TREATS,cerebral oedema
+Avipatti choorna,TREATS,Canine Cognitive Dysfunction
+Avipatti choorna,TREATS,Huntington's disease
+Avipatti choorna,TREATS,Alcohol Withdrawal Syndrome
+Avipatti choorna,TREATS,autoimmune diseases
+Avipatti choorna,TREATS,lupus
+Avipatti choorna,TREATS,nephritis
+Avipatti choorna,TREATS,rheumatoid diseases
+Avipatti choorna,TREATS,skin inflammation
+Avipatti choorna,TREATS,arthritis
+Avipatti choorna,RELIEVES,sleep
+Avipatti choorna,RELIEVES,adaptogenic effect
+Avipatti choorna,RELIEVES,stress
+Avipatti choorna,RELIEVES,cognitive function
+Avipatti choorna,RELIEVES,physical performance
+Avipatti choorna,RELIEVES,memory
+Avipatti choorna,RELIEVES,thinking abilities
+Avipatti choorna,RELIEVES,orientation
+Avipatti choorna,RELIEVES,comprehension
+Avipatti choorna,RELIEVES,learning abilities
+Avipatti choorna,RELIEVES,emotional control
+Avipatti choorna,RELIEVES,inflammatory response
+Avipatti choorna,RELIEVES,apoptosis
+Avipatti choorna,RELIEVES,necrosis
+Avipatti choorna,RELIEVES,memory loss
+Avipatti choorna,RELIEVES,neuronal apoptosis
+Avipatti choorna,RELIEVES,inflammatory processes
+Avipatti choorna,RELIEVES,intrusive thoughts
+Avipatti choorna,RELIEVES,cognitive disturbance
+Avipatti choorna,RELIEVES,chronic alcohol consumption
+Nimbamritadi eranda,TREATS,cancer
+Nimbamritadi eranda,TREATS,obsessive-compulsive disorder
+Nimbamritadi eranda,TREATS,infertility
+Nimbamritadi eranda,TREATS,sleep disorders
+Nimbamritadi eranda,TREATS,anxiety
+Nimbamritadi eranda,TREATS,hypothyroidism
+Nimbamritadi eranda,TREATS,Alzheimer's disease
+Nimbamritadi eranda,TREATS,dementia
+Nimbamritadi eranda,TREATS,HIV infection
+Nimbamritadi eranda,TREATS,Parkinson's disease
+Nimbamritadi eranda,TREATS,cerebral oedema
+Nimbamritadi eranda,TREATS,Canine Cognitive Dysfunction
+Nimbamritadi eranda,TREATS,Huntington's disease
+Nimbamritadi eranda,TREATS,Alcohol Withdrawal Syndrome
+Nimbamritadi eranda,TREATS,autoimmune diseases
+Nimbamritadi eranda,TREATS,lupus
+Nimbamritadi eranda,TREATS,nephritis
+Nimbamritadi eranda,TREATS,rheumatoid diseases
+Nimbamritadi eranda,TREATS,skin inflammation
+Nimbamritadi eranda,TREATS,arthritis
+Nimbamritadi eranda,RELIEVES,sleep
+Nimbamritadi eranda,RELIEVES,adaptogenic effect
+Nimbamritadi eranda,RELIEVES,stress
+Nimbamritadi eranda,RELIEVES,cognitive function
+Nimbamritadi eranda,RELIEVES,physical performance
+Nimbamritadi eranda,RELIEVES,memory
+Nimbamritadi eranda,RELIEVES,thinking abilities
+Nimbamritadi eranda,RELIEVES,orientation
+Nimbamritadi eranda,RELIEVES,comprehension
+Nimbamritadi eranda,RELIEVES,learning abilities
+Nimbamritadi eranda,RELIEVES,emotional control
+Nimbamritadi eranda,RELIEVES,inflammatory response
+Nimbamritadi eranda,RELIEVES,apoptosis
+Nimbamritadi eranda,RELIEVES,necrosis
+Nimbamritadi eranda,RELIEVES,memory loss
+Nimbamritadi eranda,RELIEVES,neuronal apoptosis
+Nimbamritadi eranda,RELIEVES,inflammatory processes
+Nimbamritadi eranda,RELIEVES,intrusive thoughts
+Nimbamritadi eranda,RELIEVES,cognitive disturbance
+Nimbamritadi eranda,RELIEVES,chronic alcohol consumption
+Nisha-Amalaki,TREATS,cancer
+Nisha-Amalaki,TREATS,obsessive-compulsive disorder
+Nisha-Amalaki,TREATS,infertility
+Nisha-Amalaki,TREATS,sleep disorders
+Nisha-Amalaki,TREATS,anxiety
+Nisha-Amalaki,TREATS,hypothyroidism
+Nisha-Amalaki,TREATS,Alzheimer's disease
+Nisha-Amalaki,TREATS,dementia
+Nisha-Amalaki,TREATS,HIV infection
+Nisha-Amalaki,TREATS,Parkinson's disease
+Nisha-Amalaki,TREATS,cerebral oedema
+Nisha-Amalaki,TREATS,Canine Cognitive Dysfunction
+Nisha-Amalaki,TREATS,Huntington's disease
+Nisha-Amalaki,TREATS,Alcohol Withdrawal Syndrome
+Nisha-Amalaki,TREATS,autoimmune diseases
+Nisha-Amalaki,TREATS,lupus
+Nisha-Amalaki,TREATS,nephritis
+Nisha-Amalaki,TREATS,rheumatoid diseases
+Nisha-Amalaki,TREATS,skin inflammation
+Nisha-Amalaki,TREATS,arthritis
+Nisha-Amalaki,RELIEVES,sleep
+Nisha-Amalaki,RELIEVES,adaptogenic effect
+Nisha-Amalaki,RELIEVES,stress
+Nisha-Amalaki,RELIEVES,cognitive function
+Nisha-Amalaki,RELIEVES,physical performance
+Nisha-Amalaki,RELIEVES,memory
+Nisha-Amalaki,RELIEVES,thinking abilities
+Nisha-Amalaki,RELIEVES,orientation
+Nisha-Amalaki,RELIEVES,comprehension
+Nisha-Amalaki,RELIEVES,learning abilities
+Nisha-Amalaki,RELIEVES,emotional control
+Nisha-Amalaki,RELIEVES,inflammatory response
+Nisha-Amalaki,RELIEVES,apoptosis
+Nisha-Amalaki,RELIEVES,necrosis
+Nisha-Amalaki,RELIEVES,memory loss
+Nisha-Amalaki,RELIEVES,neuronal apoptosis
+Nisha-Amalaki,RELIEVES,inflammatory processes
+Nisha-Amalaki,RELIEVES,intrusive thoughts
+Nisha-Amalaki,RELIEVES,cognitive disturbance
+Nisha-Amalaki,RELIEVES,chronic alcohol consumption
+PDBT,TREATS,cancer
+PDBT,TREATS,obsessive-compulsive disorder
+PDBT,TREATS,infertility
+PDBT,TREATS,sleep disorders
+PDBT,TREATS,anxiety
+PDBT,TREATS,hypothyroidism
+PDBT,TREATS,Alzheimer's disease
+PDBT,TREATS,dementia
+PDBT,TREATS,HIV infection
+PDBT,TREATS,Parkinson's disease
+PDBT,TREATS,cerebral oedema
+PDBT,TREATS,Canine Cognitive Dysfunction
+PDBT,TREATS,Huntington's disease
+PDBT,TREATS,Alcohol Withdrawal Syndrome
+PDBT,TREATS,autoimmune diseases
+PDBT,TREATS,lupus
+PDBT,TREATS,nephritis
+PDBT,TREATS,rheumatoid diseases
+PDBT,TREATS,skin inflammation
+PDBT,TREATS,arthritis
+PDBT,RELIEVES,sleep
+PDBT,RELIEVES,adaptogenic effect
+PDBT,RELIEVES,stress
+PDBT,RELIEVES,cognitive function
+PDBT,RELIEVES,physical performance
+PDBT,RELIEVES,memory
+PDBT,RELIEVES,thinking abilities
+PDBT,RELIEVES,orientation
+PDBT,RELIEVES,comprehension
+PDBT,RELIEVES,learning abilities
+PDBT,RELIEVES,emotional control
+PDBT,RELIEVES,inflammatory response
+PDBT,RELIEVES,apoptosis
+PDBT,RELIEVES,necrosis
+PDBT,RELIEVES,memory loss
+PDBT,RELIEVES,neuronal apoptosis
+PDBT,RELIEVES,inflammatory processes
+PDBT,RELIEVES,intrusive thoughts
+PDBT,RELIEVES,cognitive disturbance
+PDBT,RELIEVES,chronic alcohol consumption
+Gokshuradi Guggulu,TREATS,cancer
+Gokshuradi Guggulu,TREATS,obsessive-compulsive disorder
+Gokshuradi Guggulu,TREATS,infertility
+Gokshuradi Guggulu,TREATS,sleep disorders
+Gokshuradi Guggulu,TREATS,anxiety
+Gokshuradi Guggulu,TREATS,hypothyroidism
+Gokshuradi Guggulu,TREATS,Alzheimer's disease
+Gokshuradi Guggulu,TREATS,dementia
+Gokshuradi Guggulu,TREATS,HIV infection
+Gokshuradi Guggulu,TREATS,Parkinson's disease
+Gokshuradi Guggulu,TREATS,cerebral oedema
+Gokshuradi Guggulu,TREATS,Canine Cognitive Dysfunction
+Gokshuradi Guggulu,TREATS,Huntington's disease
+Gokshuradi Guggulu,TREATS,Alcohol Withdrawal Syndrome
+Gokshuradi Guggulu,TREATS,autoimmune diseases
+Gokshuradi Guggulu,TREATS,lupus
+Gokshuradi Guggulu,TREATS,nephritis
+Gokshuradi Guggulu,TREATS,rheumatoid diseases
+Gokshuradi Guggulu,TREATS,skin inflammation
+Gokshuradi Guggulu,TREATS,arthritis
+Gokshuradi Guggulu,RELIEVES,sleep
+Gokshuradi Guggulu,RELIEVES,adaptogenic effect
+Gokshuradi Guggulu,RELIEVES,stress
+Gokshuradi Guggulu,RELIEVES,cognitive function
+Gokshuradi Guggulu,RELIEVES,physical performance
+Gokshuradi Guggulu,RELIEVES,memory
+Gokshuradi Guggulu,RELIEVES,thinking abilities
+Gokshuradi Guggulu,RELIEVES,orientation
+Gokshuradi Guggulu,RELIEVES,comprehension
+Gokshuradi Guggulu,RELIEVES,learning abilities
+Gokshuradi Guggulu,RELIEVES,emotional control
+Gokshuradi Guggulu,RELIEVES,inflammatory response
+Gokshuradi Guggulu,RELIEVES,apoptosis
+Gokshuradi Guggulu,RELIEVES,necrosis
+Gokshuradi Guggulu,RELIEVES,memory loss
+Gokshuradi Guggulu,RELIEVES,neuronal apoptosis
+Gokshuradi Guggulu,RELIEVES,inflammatory processes
+Gokshuradi Guggulu,RELIEVES,intrusive thoughts
+Gokshuradi Guggulu,RELIEVES,cognitive disturbance
+Gokshuradi Guggulu,RELIEVES,chronic alcohol consumption
+Guduchi Churna,TREATS,cancer
+Guduchi Churna,TREATS,obsessive-compulsive disorder
+Guduchi Churna,TREATS,infertility
+Guduchi Churna,TREATS,sleep disorders
+Guduchi Churna,TREATS,anxiety
+Guduchi Churna,TREATS,hypothyroidism
+Guduchi Churna,TREATS,Alzheimer's disease
+Guduchi Churna,TREATS,dementia
+Guduchi Churna,TREATS,HIV infection
+Guduchi Churna,TREATS,Parkinson's disease
+Guduchi Churna,TREATS,cerebral oedema
+Guduchi Churna,TREATS,Canine Cognitive Dysfunction
+Guduchi Churna,TREATS,Huntington's disease
+Guduchi Churna,TREATS,Alcohol Withdrawal Syndrome
+Guduchi Churna,TREATS,autoimmune diseases
+Guduchi Churna,TREATS,lupus
+Guduchi Churna,TREATS,nephritis
+Guduchi Churna,TREATS,rheumatoid diseases
+Guduchi Churna,TREATS,skin inflammation
+Guduchi Churna,TREATS,arthritis
+Guduchi Churna,RELIEVES,sleep
+Guduchi Churna,RELIEVES,adaptogenic effect
+Guduchi Churna,RELIEVES,stress
+Guduchi Churna,RELIEVES,cognitive function
+Guduchi Churna,RELIEVES,physical performance
+Guduchi Churna,RELIEVES,memory
+Guduchi Churna,RELIEVES,thinking abilities
+Guduchi Churna,RELIEVES,orientation
+Guduchi Churna,RELIEVES,comprehension
+Guduchi Churna,RELIEVES,learning abilities
+Guduchi Churna,RELIEVES,emotional control
+Guduchi Churna,RELIEVES,inflammatory response
+Guduchi Churna,RELIEVES,apoptosis
+Guduchi Churna,RELIEVES,necrosis
+Guduchi Churna,RELIEVES,memory loss
+Guduchi Churna,RELIEVES,neuronal apoptosis
+Guduchi Churna,RELIEVES,inflammatory processes
+Guduchi Churna,RELIEVES,intrusive thoughts
+Guduchi Churna,RELIEVES,cognitive disturbance
+Guduchi Churna,RELIEVES,chronic alcohol consumption
+Madhumehari Ghana Vati,TREATS,cancer
+Madhumehari Ghana Vati,TREATS,obsessive-compulsive disorder
+Madhumehari Ghana Vati,TREATS,infertility
+Madhumehari Ghana Vati,TREATS,sleep disorders
+Madhumehari Ghana Vati,TREATS,anxiety
+Madhumehari Ghana Vati,TREATS,hypothyroidism
+Madhumehari Ghana Vati,TREATS,Alzheimer's disease
+Madhumehari Ghana Vati,TREATS,dementia
+Madhumehari Ghana Vati,TREATS,HIV infection
+Madhumehari Ghana Vati,TREATS,Parkinson's disease
+Madhumehari Ghana Vati,TREATS,cerebral oedema
+Madhumehari Ghana Vati,TREATS,Canine Cognitive Dysfunction
+Madhumehari Ghana Vati,TREATS,Huntington's disease
+Madhumehari Ghana Vati,TREATS,Alcohol Withdrawal Syndrome
+Madhumehari Ghana Vati,TREATS,autoimmune diseases
+Madhumehari Ghana Vati,TREATS,lupus
+Madhumehari Ghana Vati,TREATS,nephritis
+Madhumehari Ghana Vati,TREATS,rheumatoid diseases
+Madhumehari Ghana Vati,TREATS,skin inflammation
+Madhumehari Ghana Vati,TREATS,arthritis
+Madhumehari Ghana Vati,RELIEVES,sleep
+Madhumehari Ghana Vati,RELIEVES,adaptogenic effect
+Madhumehari Ghana Vati,RELIEVES,stress
+Madhumehari Ghana Vati,RELIEVES,cognitive function
+Madhumehari Ghana Vati,RELIEVES,physical performance
+Madhumehari Ghana Vati,RELIEVES,memory
+Madhumehari Ghana Vati,RELIEVES,thinking abilities
+Madhumehari Ghana Vati,RELIEVES,orientation
+Madhumehari Ghana Vati,RELIEVES,comprehension
+Madhumehari Ghana Vati,RELIEVES,learning abilities
+Madhumehari Ghana Vati,RELIEVES,emotional control
+Madhumehari Ghana Vati,RELIEVES,inflammatory response
+Madhumehari Ghana Vati,RELIEVES,apoptosis
+Madhumehari Ghana Vati,RELIEVES,necrosis
+Madhumehari Ghana Vati,RELIEVES,memory loss
+Madhumehari Ghana Vati,RELIEVES,neuronal apoptosis
+Madhumehari Ghana Vati,RELIEVES,inflammatory processes
+Madhumehari Ghana Vati,RELIEVES,intrusive thoughts
+Madhumehari Ghana Vati,RELIEVES,cognitive disturbance
+Madhumehari Ghana Vati,RELIEVES,chronic alcohol consumption
+Darvyadi Kwatha,TREATS,cancer
+Darvyadi Kwatha,TREATS,obsessive-compulsive disorder
+Darvyadi Kwatha,TREATS,infertility
+Darvyadi Kwatha,TREATS,sleep disorders
+Darvyadi Kwatha,TREATS,anxiety
+Darvyadi Kwatha,TREATS,hypothyroidism
+Darvyadi Kwatha,TREATS,Alzheimer's disease
+Darvyadi Kwatha,TREATS,dementia
+Darvyadi Kwatha,TREATS,HIV infection
+Darvyadi Kwatha,TREATS,Parkinson's disease
+Darvyadi Kwatha,TREATS,cerebral oedema
+Darvyadi Kwatha,TREATS,Canine Cognitive Dysfunction
+Darvyadi Kwatha,TREATS,Huntington's disease
+Darvyadi Kwatha,TREATS,Alcohol Withdrawal Syndrome
+Darvyadi Kwatha,TREATS,autoimmune diseases
+Darvyadi Kwatha,TREATS,lupus
+Darvyadi Kwatha,TREATS,nephritis
+Darvyadi Kwatha,TREATS,rheumatoid diseases
+Darvyadi Kwatha,TREATS,skin inflammation
+Darvyadi Kwatha,TREATS,arthritis
+Darvyadi Kwatha,RELIEVES,sleep
+Darvyadi Kwatha,RELIEVES,adaptogenic effect
+Darvyadi Kwatha,RELIEVES,stress
+Darvyadi Kwatha,RELIEVES,cognitive function
+Darvyadi Kwatha,RELIEVES,physical performance
+Darvyadi Kwatha,RELIEVES,memory
+Darvyadi Kwatha,RELIEVES,thinking abilities
+Darvyadi Kwatha,RELIEVES,orientation
+Darvyadi Kwatha,RELIEVES,comprehension
+Darvyadi Kwatha,RELIEVES,learning abilities
+Darvyadi Kwatha,RELIEVES,emotional control
+Darvyadi Kwatha,RELIEVES,inflammatory response
+Darvyadi Kwatha,RELIEVES,apoptosis
+Darvyadi Kwatha,RELIEVES,necrosis
+Darvyadi Kwatha,RELIEVES,memory loss
+Darvyadi Kwatha,RELIEVES,neuronal apoptosis
+Darvyadi Kwatha,RELIEVES,inflammatory processes
+Darvyadi Kwatha,RELIEVES,intrusive thoughts
+Darvyadi Kwatha,RELIEVES,cognitive disturbance
+Darvyadi Kwatha,RELIEVES,chronic alcohol consumption
+Ashwagandha root extract,TREATS,cancer
+Ashwagandha root extract,TREATS,obsessive-compulsive disorder
+Ashwagandha root extract,TREATS,infertility
+Ashwagandha root extract,TREATS,sleep disorders
+Ashwagandha root extract,TREATS,anxiety
+Ashwagandha root extract,TREATS,hypothyroidism
+Ashwagandha root extract,TREATS,Alzheimer's disease
+Ashwagandha root extract,TREATS,dementia
+Ashwagandha root extract,TREATS,HIV infection
+Ashwagandha root extract,TREATS,Parkinson's disease
+Ashwagandha root extract,TREATS,cerebral oedema
+Ashwagandha root extract,TREATS,Canine Cognitive Dysfunction
+Ashwagandha root extract,TREATS,Huntington's disease
+Ashwagandha root extract,TREATS,Alcohol Withdrawal Syndrome
+Ashwagandha root extract,TREATS,autoimmune diseases
+Ashwagandha root extract,TREATS,lupus
+Ashwagandha root extract,TREATS,nephritis
+Ashwagandha root extract,TREATS,rheumatoid diseases
+Ashwagandha root extract,TREATS,skin inflammation
+Ashwagandha root extract,TREATS,arthritis
+Ashwagandha root extract,RELIEVES,sleep
+Ashwagandha root extract,RELIEVES,adaptogenic effect
+Ashwagandha root extract,RELIEVES,stress
+Ashwagandha root extract,RELIEVES,cognitive function
+Ashwagandha root extract,RELIEVES,physical performance
+Ashwagandha root extract,RELIEVES,memory
+Ashwagandha root extract,RELIEVES,thinking abilities
+Ashwagandha root extract,RELIEVES,orientation
+Ashwagandha root extract,RELIEVES,comprehension
+Ashwagandha root extract,RELIEVES,learning abilities
+Ashwagandha root extract,RELIEVES,emotional control
+Ashwagandha root extract,RELIEVES,inflammatory response
+Ashwagandha root extract,RELIEVES,apoptosis
+Ashwagandha root extract,RELIEVES,necrosis
+Ashwagandha root extract,RELIEVES,memory loss
+Ashwagandha root extract,RELIEVES,neuronal apoptosis
+Ashwagandha root extract,RELIEVES,inflammatory processes
+Ashwagandha root extract,RELIEVES,intrusive thoughts
+Ashwagandha root extract,RELIEVES,cognitive disturbance
+Ashwagandha root extract,RELIEVES,chronic alcohol consumption
